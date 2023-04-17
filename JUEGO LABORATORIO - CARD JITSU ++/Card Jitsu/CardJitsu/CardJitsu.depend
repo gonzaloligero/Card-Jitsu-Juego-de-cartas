@@ -1,0 +1,182 @@
+# depslib dependency file v1.0
+1667340934 source:c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\cardjitsu\funciones.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+
+1667340836 c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\cardjitsu\funciones.h
+
+1668384348 source:c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\cardjitsu\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	"menu.h"
+	"mazo.h"
+	"desafios.h"
+	"choques.h"
+	"colores.h"
+	<locale.h>
+
+1668196026 source:c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\cardjitsu\menu.cpp
+	<iostream>
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	"colores.h"
+	<cstdio>
+
+1668196026 c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\cardjitsu\menu.h
+	<iostream>
+
+1667771673 c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\cardjitsu\mazo.h
+	<iostream>
+
+1668184016 source:c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\cardjitsu\mazo.cpp
+	<iostream>
+	"colores.h"
+
+1668183502 source:c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\cardjitsu\desafios.cpp
+	<iostream>
+	"colores.h"
+
+1667914581 c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\cardjitsu\desafios.h
+	<iostream>
+
+1667999265 source:c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\cardjitsu\choques.cpp
+	<iostream>
+	"mazo.h"
+	"colores.h"
+
+1667594782 c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\cardjitsu\choques.h
+	<iostream>
+
+1667482492 c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\cardjitsu\colores.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668469273 source:c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\card jitsu\cardjitsu\choques.cpp
+	<iostream>
+	"mazo.h"
+	"colores.h"
+
+1668469273 c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\card jitsu\cardjitsu\mazo.h
+	<iostream>
+
+1668469273 c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\card jitsu\cardjitsu\colores.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668469273 source:c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\card jitsu\cardjitsu\desafios.cpp
+	<iostream>
+	"colores.h"
+
+1668469273 source:c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\card jitsu\cardjitsu\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	"menu.h"
+	"mazo.h"
+	"desafios.h"
+	"choques.h"
+	"colores.h"
+	<locale.h>
+
+1668469273 c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\card jitsu\cardjitsu\menu.h
+	<iostream>
+
+1668469273 c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\card jitsu\cardjitsu\desafios.h
+	<iostream>
+
+1668469273 c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\card jitsu\cardjitsu\choques.h
+	<iostream>
+
+1668469273 source:c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\card jitsu\cardjitsu\mazo.cpp
+	<iostream>
+	"colores.h"
+
+1668469273 source:c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\card jitsu\cardjitsu\menu.cpp
+	<iostream>
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	"colores.h"
+	<cstdio>
+
+1668860956 source:c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\juego laboratorio - card jitsu ++\card jitsu\cardjitsu\choques.cpp
+	<iostream>
+	"mazo.h"
+	"colores.h"
+
+1668522834 c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\juego laboratorio - card jitsu ++\card jitsu\cardjitsu\mazo.h
+	<iostream>
+
+1668469273 c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\juego laboratorio - card jitsu ++\card jitsu\cardjitsu\colores.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668858413 source:c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\juego laboratorio - card jitsu ++\card jitsu\cardjitsu\desafios.cpp
+	<iostream>
+	"colores.h"
+
+1668861422 source:c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\juego laboratorio - card jitsu ++\card jitsu\cardjitsu\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	"menu.h"
+	"mazo.h"
+	"desafios.h"
+	"choques.h"
+	"colores.h"
+	<locale.h>
+
+1668860436 c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\juego laboratorio - card jitsu ++\card jitsu\cardjitsu\menu.h
+	<iostream>
+
+1668552221 c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\juego laboratorio - card jitsu ++\card jitsu\cardjitsu\desafios.h
+	<iostream>
+
+1668794445 c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\juego laboratorio - card jitsu ++\card jitsu\cardjitsu\choques.h
+	<iostream>
+
+1668552109 source:c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\juego laboratorio - card jitsu ++\card jitsu\cardjitsu\mazo.cpp
+	<iostream>
+	"colores.h"
+
+1668861891 source:c:\users\gonzalo\desktop\juego laboratorio - card jitsu ++\juego laboratorio - card jitsu ++\card jitsu\cardjitsu\menu.cpp
+	<iostream>
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	"colores.h"
+	<cstdio>
+
